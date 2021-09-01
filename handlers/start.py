@@ -12,10 +12,10 @@ async def start(_, message: Message):
             [[
             InlineKeyboardButton("➕ Add To Your Group ➕", url="https://t.me/DevilHackerMusicBot?startgroup=true")
             ],[
-            InlineKeyboardButton("💬 Group", url="#"),
-            InlineKeyboardButton("My Dev 🤴", url="#")
+            InlineKeyboardButton("💬 Group", url="https://t.me/TheModdingGod1"),
+            InlineKeyboardButton("My Dev 🤴", url="https://t.me/TheModdingGod1")
             ],[
-            InlineKeyboardButton("😁 Repo 🇮🇳", url="#")
+            InlineKeyboardButton("😁 Repo 🇮🇳", url="https://t.me/TheModdingGod1")
             ]]
         ),
         disable_web_page_preview=True
@@ -66,7 +66,7 @@ __× First Add Me To Your Group..
 • `/userbotleave` : __Assistant Leaves From The Group.__""",
         reply_markup=InlineKeyboardMarkup(
               [[
-              InlineKeyboardButton(text="🎙️ My Dev 🎙️", url="#")
+              InlineKeyboardButton(text="🎙️ My Dev 🎙️", url="https://t.me/TheModdingGod1")
               ]]
           )
       )
