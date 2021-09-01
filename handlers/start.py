@@ -12,10 +12,10 @@ async def start(_, message: Message):
             [[
             InlineKeyboardButton("➕ Add To Your Group ➕", url="https://t.me/DevilHackerMusicBot?startgroup=true")
             ],[
-            InlineKeyboardButton("💬 Group", url="https://t.me/TheModdingGod"),
+            InlineKeyboardButton("💬 Group", url="#"),
             InlineKeyboardButton("My Dev 🤴", url="#")
             ],[
-            InlineKeyboardButton("😁 Repo 🇮🇳", url="https://github.com/rakeshyt/DevilHackerMusic")
+            InlineKeyboardButton("😁 Repo 🇮🇳", url="#")
             ]]
         ),
         disable_web_page_preview=True
