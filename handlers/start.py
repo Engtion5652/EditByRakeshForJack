@@ -66,7 +66,7 @@ __× First Add Me To Your Group..
 • `/userbotleave` : __Assistant Leaves From The Group.__""",
         reply_markup=InlineKeyboardMarkup(
               [[
-              InlineKeyboardButton(text="🎙️ My Dev 🎙️", url="https://t.me/DevilHackerRakesh")
+              InlineKeyboardButton(text="🎙️ My Dev 🎙️", url="#")
               ]]
           )
       )
